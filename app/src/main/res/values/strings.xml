@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">Mascotas</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_settings">Contacto</string>
+    <string name="menu_about">Acerca de</string>
+    <string name="menu_settings">Contacto</string>
+    <string name="text_about">Acerca de</string>
+    <string name="text_settings">Acerca de text</string>
+    <string name="text_eliminar">Eliminar</string>
+    <string name="text_editar">Editar texto</string>
 </resources>
